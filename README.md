@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi 👋 Nice to meet u !
+I'm Suraj Verma .
 
-<!--
-**blackhacker09/blackhacker09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on project.
+- 🌱 I’m currently learning Web development techs and DSA/CP ("ON HOLD")
+- 👯 I’m looking to collaborate on Youtube
+- 🤔  I’m looking for help to find my best friend for doing DSA & CP.
+- 💬 Ask me about 
+- 📫 How to reach me: linkedin,twitter,instagram
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Good in Meme-making & Creative thinker
