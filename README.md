@@ -2,11 +2,11 @@ Hi 👋 Nice to meet u !
 I'm Suraj Verma .
 
 
-- 🔭 I’m currently working on project.
-- 🌱 I’m currently learning Web development techs and DSA/CP ("ON HOLD")
-- 👯 I’m looking to collaborate on Youtube
-- 🤔  I’m looking for help to find my best friend for doing DSA & CP.
-- 💬 Ask me about 
-- 📫 How to reach me: linkedin,twitter,instagram
+- 🔭 I’m currently working on....
+- 🌱 I’m currently learning ....
+- 👯 I’m looking to collaborate on ....
+- 🤔  I’m looking for help in....
+- 💬 Ask me about ...
+- 📫 How to reach me: LinkedIn, Twitter, Instagram
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Good in Meme-making & Creative thinker
+- ⚡ Fun fact: Meme-maker & Creative thinker
