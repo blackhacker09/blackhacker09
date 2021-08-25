@@ -1,3 +1,5 @@
+<img src="img_girl.jpg" alt="#banner" width="2560" height="1440">
+
 <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
 <h3 align="center">A passionate Web developer & Competitive programmer trying to improve with time.</h3>
 
