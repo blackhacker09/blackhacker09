@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhacker09" alt="blackhacker09" /></a> </p>
-
 - 🔭 I’m currently working on **personal project**
 
 - 🌱 I’m currently learning **backend framework**
@@ -24,7 +22,7 @@
 <a href="https://twitter.com/surajve18206216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajve18206216" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-verma-a3b21b18a" height="30" width="40" /></a>
 <a href="https://instagram.com/surajverma2175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajverma2175" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdvh-rtcua4bkz_meiymj0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdvh-rtcua4bkz_meiymj0a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucdvh-rtcua4bkz_meiymj0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdvh-rtcua4bkz_meiymj0a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhacker09&show_icons=true&locale=en&layout=compact" alt="blackhacker09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&locale=en" alt="blackhacker09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09&" alt="blackhacker09" /></p>
-
