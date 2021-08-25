@@ -9,7 +9,7 @@
 
 - 👦 My portfolio : [https://blackhacker09.github.io/PERSONAL_SITE/](https://blackhacker09.github.io/PERSONAL_SITE/)
 
-- 📫 How to reach me **Surajverma5009@gmail.com**
+- 📫 How to reach me : **Surajverma5009@gmail.com**
 
 - ⚡ Fun fact : **I think I am funny sometimes due to my craziness.**
 
