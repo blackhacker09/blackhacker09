@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
 <h3 align="center">A passionate Web developer & Competitive programmer just trying to improve with time.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" /> </p>
 
 - 🔭 I’m currently working on **personal project**
 
