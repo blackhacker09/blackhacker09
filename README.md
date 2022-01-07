@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **Surajverma5009@gmail.com**
 
-- ⚡ Fun fact : **Loves ❤️ Creativity, Designing and Imagination **
+- ⚡ Fun fact : **Loves ❤️ Creativity, Designing and Imagination**
 
 
 
