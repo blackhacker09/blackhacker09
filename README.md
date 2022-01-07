@@ -13,9 +13,9 @@
 
 - 📫 How to reach me : **Surajverma5009@gmail.com**
 
-- ⚡ Fun fact : **I think I am funny sometimes due to my craziness.**
+- ⚡ Fun fact : **Loves ❤️ Creativity, Designing and Imagination **
 
-<!-- 🤪 -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
