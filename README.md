@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="#banner" width="" height="">
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👋, I'm Suraj Verma</h1>
+<!-- 👋 -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Suraj Verma</h1>
 <h3 align="center">A passionate Web developer & Competitive programmer just trying to improve with time.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" /> </p>
