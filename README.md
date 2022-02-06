@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **Surajverma5009@gmail.com**
 
-- ⚡ Fun fact : **Loves ❤️ Creativity, Designing and Imagination ,but as Part-Time .**
+<!-- - ⚡ Fun fact : **Loves ❤️ Creativity, Designing and Imagination ,but as Part-Time .** -->
 
 
 <h3 align="left">Connect with me:</h3>
