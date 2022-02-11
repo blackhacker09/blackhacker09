@@ -7,9 +7,9 @@
  -->
 &nbsp;
 
-- 🔭 I’m currently working on **personal project**
+<!-- - 🔭 I’m currently working on **personal project** -->
 
-- 🌱 I’m currently learning **backend framework**
+<!-- - 🌱 I’m currently learning **backend framework** -->
 
 - 👦 My portfolio : [Portfolio](https://blackhacker09.github.io/PERSONAL_SITE/)
 
