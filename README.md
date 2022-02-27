@@ -11,7 +11,7 @@
 
 <!-- - 🌱 I’m currently learning **backend framework** -->
 
-- 👦 My portfolio : [Portfolio](https://blackhacker09.github.io/PERSONAL_SITE/)
+<!-- - 👦 My portfolio : [Portfolio](https://blackhacker09.github.io/PERSONAL_SITE/) -->
 
 - 📫 How to reach me : **Surajverma5009@gmail.com**
 
