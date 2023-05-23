@@ -25,7 +25,7 @@
   <p align="left">
     <a href="https://twitter.com/surajve18206216" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="surajve18206216" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suraj-verma-a3b21b18a" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/surajverma2175" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="surajverma2175" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/surajverma2175" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="surajverma2175" height="30" width="40" /></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
@@ -35,10 +35,10 @@
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="c" width="40" height="40" />
+      <img src="https://cdn.svgporn.com/logos/c.svg" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40" />
+      <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
@@ -68,10 +68,10 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" alt="redux" width="40" height="40" />
+      <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40" />
     </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="webpack" width="40" height="40" />
+      <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="webpack" width="40" height="40" />
     </a>
   </p>
 
