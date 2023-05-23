@@ -9,7 +9,7 @@
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
   
   <p align="center">
-    <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780" alt="gif2" />
+    <img src="https://github.com/blackhacker09/blackhacker09/blob/main/assets/gif2.gif" alt="gif2" />
   </p>
   
   <p align="left">
@@ -22,20 +22,20 @@
     </a>
   </p>
 
-  <p align="left">📫 <b>How to reach me:</b> <b>Surajverma5009@gmail.com</b></p>
+  <p align="left">📫 How to reach me: <b>Surajverma5009@gmail.com</b></p>
 
-  <p align="left">⚡ <b>Fun fact:</b> <b>"Building class, because form is temporary"</b></p>
+  <p align="left">⚡ Fun fact: <b>"Building class, because form is temporary"</b></p>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/surajve18206216" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajve18206216" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-verma-a3b21b18a/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-verma-a3b21b18a/" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/suraj-verma-a3b21b18a/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/surajverma2175/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/surajverma2175/" height="30" width="40" />
+    <a href="https://www.instagram.com/surajverma2175/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
   </p>
 
@@ -88,13 +88,12 @@
 
   <div style="display: flex;">
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhacker09&show_icons=true&locale=en&layout=compact" alt="blackhacker09" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&locale=en&layout=compact" alt="blackhacker09" />
     </p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&locale=en" alt="blackhacker09" /></p>
   </div>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
 
-  
 </body>
 </html>
