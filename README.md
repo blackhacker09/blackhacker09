@@ -5,8 +5,9 @@
 </head>
 <body>
   <p align="center">
-    <img src="Banner.png" alt="Banner" />
+    <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/d99ee429-35f8-4455-a710-f9c917b6b261" alt="Banner" />
   </p>
+  
   <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
   
