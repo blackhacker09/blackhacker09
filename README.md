@@ -79,12 +79,12 @@
 
   <div style="display: flex;">
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&locale=en&layout=compact" alt="blackhacker09" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&theme=radical&locale=en&layout=compact" alt="blackhacker09" />
     </p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&theme=radical&locale=en" alt="blackhacker09" /></p>
   </div>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09&theme=radical" alt="blackhacker09" /></p>
 
 </body>
 </html>
