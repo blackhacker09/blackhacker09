@@ -37,6 +37,9 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.svgporn.com/logos/c.svg" alt="c" width="40" height="40" />
     </a>
+    <a href="https://www.programiz.com/cpp-programming" target="_blank" rel="noreferrer">
+      <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="c++" width="40" height="40" />
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" width="40" height="40" />
     </a>
