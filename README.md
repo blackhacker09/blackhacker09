@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Profile</title>
+  
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
   
-![gif1](https://github.com/blackhacker09/blackhacker09/assets/56511978/ddfaec78-5212-4cf1-8308-1b2232ab4c96)
-![gif2](https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780)
-
+  <p align="center">
+  ![gif2](https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780)
+  </p>
   
   
   <p align="left">
