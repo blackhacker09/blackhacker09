@@ -28,7 +28,7 @@
 
   <p align="left">📫 How to reach me: Surajverma5009@gmail.com</p>
 
-  <p align="left">⚡ Fun fact: Building class, because form is temporary</p>
+  <p align="left">⚡ Fun fact: "Building class, because form is temporary"</p>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
