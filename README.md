@@ -22,9 +22,9 @@
     </a>
   </p>
 
-  <p align="left">📫 How to reach me: Surajverma5009@gmail.com</p>
+  <p align="left">📫 <b>How to reach me:</b> <b>Surajverma5009@gmail.com</b></p>
 
-  <p align="left">⚡ Fun fact: <b>"Building class, because form is temporary"</b></p>
+  <p align="left">⚡ <b>Fun fact:</b> <b>"Building class, because form is temporary"</b></p>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -95,7 +95,6 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhacker09)](https://github.com/anuraghazra/github-readme-stats)
   
 </body>
 </html>
