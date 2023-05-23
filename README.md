@@ -16,7 +16,6 @@
     <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" />
   </p>
 
-<p align="left"> <a href="https://twitter.com/surajve18206216" target="blank"><img src="https://img.shields.io/twitter/follow/surajve18206216?logo=twitter&style=for-the-badge" alt="surajve18206216" /></a> </p>
 
   <p align="left">📫 How to reach me: <b>Surajverma5009@gmail.com</b></p>
 
