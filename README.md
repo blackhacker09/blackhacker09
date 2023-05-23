@@ -1,5 +1,5 @@
 <!-- Add a banner image -->
-![Banner](banner.jpg)
+![Banner](Banner.png
 
 <!-- Add a greeting -->
 # Hi 👋, I'm Suraj Verma
