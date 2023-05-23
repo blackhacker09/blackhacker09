@@ -36,43 +36,43 @@
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="" alt="c" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="" alt="css3" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="" alt="express" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="" alt="html5" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="" alt="java" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="" alt="mongodb" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="" alt="nodejs" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="" alt="postgresql" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="" alt="python" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="" alt="react" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="" alt="redux" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" alt="redux" width="40" height="40" />
     </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img src="" alt="webpack" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="webpack" width="40" height="40" />
     </a>
   </p>
 
