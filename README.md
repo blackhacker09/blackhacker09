@@ -6,6 +6,8 @@
 <body>
   <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
+  
+![gif1](https://github.com/blackhacker09/blackhacker09/assets/56511978/ddfaec78-5212-4cf1-8308-1b2232ab4c96)
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" />
