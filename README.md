@@ -8,7 +8,7 @@
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
   
   <p align="center">
-  ![gif2](https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780)
+    <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780" alt="gif2" />
   </p>
   
   
