@@ -29,7 +29,7 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/surajve18206216" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajve18206216" height="30" width="40" />
+      <img align="center" src="data:image/svg+xml;base64,PHN2ZyBtZXRob2Q9ImZpbGwiIHdpZHRoPSI0MCIgaGVpZ2h0PSIzMCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8cGF0aCBkPSJNMjMuOTU0IDQuNTY5Yy0uODg1LjM4OS0xLjgzNS42NS0yLjgzMy43NzItLjY1Mi0uOTE1LS41NjEtMi44MDUtLjczOS0zLjEyOSAxLjE4OS0yLjE3MiAyLjE2NC0zLjEyOS4xODk2LS45NTItLjg1Ny0yLjE3Mi0yLjE2OC0zLjEyOS0zLjEyOS0uODk2IDAgLjM4Ny4wNDQgMS4xMjYgMCAuMzg3LS44ODkuMzg3LTEuNTM4IDAtMi4wMDUtLjA0NC0zLjk0Ny4wMTEtLjg5Ni0xLjQ4NS0yLjM0NS0xLjU1NS0xLjcyMy0uMDI1LTEuMzEzLS4yNDgtLjYyMy0uNjA2LS43MjgtLjUwMy0uODkgLjI0NS0uOTI1IDIuNDQ1LjYyMiA0LjYwMyA0LjMyIDAgLjMxNi4wMjMuNjI1IDMuNDI1IDMuNjE4LjkzMy0uNzQ5IDEuNjk1LTQuNjc0IDMuMzc4IDQuNjAzLTEuNjg1IDAgLjMxNi0uMjQ4IDEuOTUyLTIuODAyIDMuNDE4LTMuNTE1LjM0MTgtMS43MTYgMi40NDUtMy44ODggNC42MDMtNC4wOTIuMzE2LjAwNS0uNzg3LjIzNC0xLjMwLjI0OC0uMzE2IDEuOTY3LTIuODUgNC4yOTUtMi4xMDYgeiIvPjwvc3ZnPgo=" alt="Twitter" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/suraj-verma-a3b21b18a/" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
