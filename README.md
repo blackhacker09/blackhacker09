@@ -3,14 +3,17 @@
 <head>
   
 </head>
-<body>  
+<body>
+  <p align="center">
+    <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/d99ee429-35f8-4455-a710-f9c917b6b261" alt="Banner" />
+  </p>
+  
   <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
   
   <p align="center">
     <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/2d501d95-cf2a-4ce3-881c-3f5694fb1780" alt="gif2" />
   </p>
-  
   
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" />
@@ -24,7 +27,7 @@
 
   <p align="left">📫 How to reach me: Surajverma5009@gmail.com</p>
 
-  <p align="left">⚡ Fun fact: "Building class, because form is temporary"</p>
+  <p align="left">⚡ Fun fact: <b>"Building class, because form is temporary"</b></p>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -41,6 +44,7 @@
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
+    <!-- Customize your languages and tools here -->
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
@@ -93,5 +97,14 @@
   </div>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
+
+  <style>
+    .stat {
+      background-color: #5c5c5c;
+      color: #fff;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+  </style>
 </body>
 </html>
