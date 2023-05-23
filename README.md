@@ -24,13 +24,12 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-<a href="https://twitter.com/surajve18206216" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="surajve18206216" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suraj-verma-a3b21b18a" height="30" width="40" /></a>
+    <a href="https://twitter.com/surajve18206216" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="surajve18206216" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suraj-verma-a3b21b18a" height="30" width="40" /></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-    
     <!-- Customize your languages and tools here -->
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
