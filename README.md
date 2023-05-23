@@ -7,6 +7,10 @@
 <!-- Add a short description -->
 A passionate Software Developer to solve real world problems.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <!-- Add a contact section -->
 ## 📫 How to reach me:
 - Email: Surajverma5009@gmail.com
