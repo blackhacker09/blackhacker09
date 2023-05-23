@@ -1,25 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    /* Custom CSS for purple theme */
-    body {
-      background-color: #f5f5fa;
-      color: #6c63ff;
-    }
-    h1, h3 {
-      color: #6c63ff;
-    }
-    p {
-      color: #6c63ff;
-    }
-  </style>
+<head>  
 </head>
 <body>
 
   <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
   <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
-
+  
   <p align="center">
     <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/34ebe5cb-3454-4ef1-b822-ab880483d3c5" alt="gif2" />
   </p>
@@ -94,7 +81,7 @@
     <p>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&locale=en&layout=compact" alt="blackhacker09" />
     </p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&locale=en" alt="blackhacker09" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&theme=radical&locale=en" alt="blackhacker09" /></p>
   </div>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
