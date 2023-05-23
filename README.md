@@ -95,14 +95,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09" alt="blackhacker09" /></p>
 
-  <style>
-    .stat {
-      background-color: #5c5c5c;
-      color: #fff;
-      padding: 5px 10px;
-      border-radius: 5px;
-    }
-  </style>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhacker09)](https://github.com/anuraghazra/github-readme-stats)
   
 </body>
 </html>
