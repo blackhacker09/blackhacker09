@@ -58,11 +58,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackhacker09&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&theme=radical&layout=compact&hide_border=false&langs_count=8&include_all_commits=true" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=blackhacker09&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
