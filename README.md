@@ -58,13 +58,13 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blackhacker09&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=blackhacker09&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
