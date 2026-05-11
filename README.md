@@ -1,90 +1,70 @@
-<!DOCTYPE html>
-<html>
-<head>  
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Suraj Verma</h1>
+<h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
 
-  <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
-  <h3 align="center">A passionate Software Developer who loves to solve real-world problems.</h3>
-  
-  <p align="center">
-    <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/34ebe5cb-3454-4ef1-b822-ab880483d3c5" alt="gif2" />
-  </p>
+<p align="center">
+  <img src="https://github.com/blackhacker09/blackhacker09/assets/56511978/34ebe5cb-3454-4ef1-b822-ab880483d3c5" alt="coding gif" width="400"/>
+</p>
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="blackhacker09" />
-  </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=blackhacker09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+---
 
-  <p align="left">📫 How to reach me: <b>Surajverma5009@gmail.com</b></p>
+📫 How to reach me: **Surajverma5009@gmail.com**
 
-  <p align="left">⚡ Fun fact: <b>"Building class, because form is temporary"</b></p>
+⚡ Fun fact: **"Building class, because form is temporary"**
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://twitter.com/surajve18206216" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="surajve18206216" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suraj-verma-a3b21b18a" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/surajverma2175" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="surajverma2175" height="30" width="40" /></a>
-  </p>
+---
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <!-- Customize your languages and tools here -->
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.svgporn.com/logos/c.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://www.programiz.com/cpp-programming" target="_blank" rel="noreferrer">
-      <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="c++" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="webpack" width="40" height="40" />
-    </a>
-  </p>
+### 🌐 Connect with me
 
-  <div style="display: flex;">
-    <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&theme=radical&locale=en&layout=compact" alt="blackhacker09" />
-    </p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&theme=radical&locale=en" alt="blackhacker09" /></p>
-  </div>
+<p align="left">
+  <a href="https://twitter.com/surajve18206216" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/suraj-verma-a3b21b18a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/surajverma2175" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09&theme=radical" alt="blackhacker09" /></p>
+---
 
-</body>
-</html>
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhacker09&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=blackhacker09&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackhacker09&theme=radical" alt="GitHub Streak" />
+</p>
